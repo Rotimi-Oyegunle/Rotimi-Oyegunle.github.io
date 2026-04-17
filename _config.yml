@@ -25,7 +25,7 @@ avatar_image: /img/Rotimi hub.JPG
 linkedln: "https://www.linkedin.com/in/rotimioyegunle/" # Add your linkedln handle
 github: "https://rotimi-oyegunle.github.io"  # Add your github handle
 
-paginate: 6
+paginate: 14
 paginate_path: "/page/:num"
 
 sass:
